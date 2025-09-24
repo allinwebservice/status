@@ -17,13 +17,21 @@
 name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  pages: write
+  id-token: write
+
 jobs:
   release:
-    name: Generate graphs
+    name: Update graphs
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
