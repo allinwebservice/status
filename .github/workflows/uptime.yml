@@ -21,6 +21,14 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  pages: write
+  id-token: write
+
 jobs:
   release:
     name: Check status
@@ -38,3 +46,4 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+
