@@ -14,26 +14,46 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Summary CI
+name: Site CI
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
   repository_dispatch:
-    types: [summary]
+    types: [site]
   workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: upptime-site
+  cancel-in-progress: true
+
 jobs:
   release:
-    name: Generate README
+    name: Build and deploy status site
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
+          fetch-depth: 0
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Update summary in README
+      - name: Build status site
         uses: upptime/uptime-monitor@v1.41.0
         with:
-          command: "readme"
+          command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - name: Deploy to GitHub Pages
+        uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "deploy"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+
