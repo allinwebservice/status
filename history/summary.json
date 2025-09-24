@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 846,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "time": 653,
+    "timeDay": 653,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 500,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 487,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 486,
+    "timeDay": 486,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,39 @@
     "url": "https://infosafe.tech",
     "icon": "https://icons.duckduckgo.com/ip3/infosafe.tech.ico",
     "slug": "infosafe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.62%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2025-09-24": 2
+    }
+  },
+  {
+    "name": "Infosafe",
+    "url": "https://nope.allinweb.cz",
+    "icon": "https://icons.duckduckgo.com/ip3/nope.allinweb.cz.ico",
+    "slug": "infosafe",
+    "status": "down",
+    "uptime": "97.62%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
+    "dailyMinutesDown": {
+      "2025-09-24": 2
+    }
   }
 ]
