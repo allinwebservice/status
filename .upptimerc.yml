@@ -15,9 +15,9 @@ sites:
 
 # Status web (veřejná stránka)
 status-website:
-  cname: status.allinweb.cz      # pokud chceš vlastní doménu
-  # baseUrl: /status             # použij místo toho, pokud necháš jen GitHub Pages
-  logoUrl: https://allinweb.cz/logo.png   # sem můžeš dát svoje logo
+  # cname: status.allinweb.cz   # pokud chceš vlastní doménu, odkomentuj a nastav DNS
+  baseUrl: /status              # pro github.io/status
+  logoUrl: https://allinweb.cz/logo.png
   name: All In Web Service - Status
   introTitle: "Status Page for All In Web Service"
   introMessage: |
