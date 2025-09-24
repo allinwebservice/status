@@ -1,6 +1,6 @@
 # Základní nastavení
-owner: allinwebservice    # tvoje GitHub organizace/username
-repo: status              # název repozitáře
+owner: allinwebservice
+repo: status
 
 # Weby, které chceš sledovat
 sites:
@@ -27,3 +27,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/allinwebservice/status
+
+# Komu automaticky přiřadit incidenty (kvůli e-mailům z GitHubu)
+assignees:
+  - allinwebservice
