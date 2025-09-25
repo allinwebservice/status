@@ -12,8 +12,6 @@ sites:
     url: https://cnsc.cz
   - name: Infosafe
     url: https://infosafe.tech
-  - name: Infosafe
-    url: https://nope.allinweb.cz
 
 # Status web (veřejná stránka)
 status-website:
