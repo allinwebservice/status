@@ -2,7 +2,7 @@
   "bundler": "rollup",
   "shimport": "2.0.5",
   "assets": {
-    "main": "client.26cc4cc2.js"
+    "main": "client.60f1da33.js"
   },
   "css": {
     "main": [
@@ -11,38 +11,38 @@
   },
   "dependencies": {
     "index.svelte": [
-      "index.1c010e45.js",
-      "createOctokit.05358feb.js",
+      "index.b2eaac35.js",
+      "createOctokit.a6701897.js",
       "inject_styles.803b7e80.js",
       "createOctokit-a85f76c7.css",
       "index-b0b6455a.css"
     ],
     "rate-limit-exceeded.svelte": [
-      "rate-limit-exceeded.ad21f9b5.js",
+      "rate-limit-exceeded.8387d1dd.js",
       "inject_styles.803b7e80.js",
       "rate-limit-exceeded-88af4d80.css"
     ],
     "incident/[number].svelte": [
-      "_number_.fdd1c780.js",
-      "createOctokit.05358feb.js",
+      "_number_.fa55d37a.js",
+      "createOctokit.a6701897.js",
       "inject_styles.803b7e80.js",
       "createOctokit-a85f76c7.css",
       "_number_-d4d16748.css"
     ],
     "history/[number].svelte": [
-      "_number_.c408d60f.js",
-      "createOctokit.05358feb.js",
+      "_number_.8bf7978e.js",
+      "createOctokit.a6701897.js",
       "inject_styles.803b7e80.js",
       "createOctokit-a85f76c7.css",
       "_number_-971b332f.css"
     ],
     "error.svelte": [
-      "error.f3050443.js",
+      "error.993aad72.js",
       "inject_styles.803b7e80.js",
       "error-37eeedae.css"
     ]
   },
   "legacy_assets": {
-    "main": "client.9171723e.js"
+    "main": "client.fddf6246.js"
   }
 }

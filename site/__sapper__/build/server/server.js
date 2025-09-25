@@ -314,10 +314,6 @@ var sites = [
 	{
 		name: "Infosafe",
 		url: "https://infosafe.tech"
-	},
-	{
-		name: "Infosafe",
-		url: "https://nope.allinweb.cz"
 	}
 ];
 var assignees = [
