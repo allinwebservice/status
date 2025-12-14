@@ -12,6 +12,38 @@ sites:
     url: https://cnsc.cz
   - name: Infosafe
     url: https://infosafe.tech
+  - name: All In Web Service
+    url: https://www.allinweb.cz/
+  - name: 111 Malíři
+    url: https://www.111maliri.cz/
+  - name: Solis nakladatelství
+    url: https://www.solis-nakladatelstvi.cz/
+  - name: Jantač Capital
+    url: https://www.jantac-capital.cz/
+  - name: Chlebík Advokáti
+    url: https://www.chlebikadvokati.cz/
+  - name: Fit Slim
+    url: https://www.fit-slim.cz/
+  - name: Carboneo
+    url: https://www.carboneo.cz/
+  - name: Mine Coin
+    url: https://www.mine-coin.cz/
+  - name: Barber MNB
+    url: https://www.barber-mnb.cz/
+  - name: Bohemia Shield
+    url: https://www.bohemiashield.cz/
+  - name: Premiq Benefit
+    url: https://www.premiq-benefit.cz/
+  - name: Ovocný strom
+    url: https://www.ovocny-strom.cz/
+  - name: Profesionální foto
+    url: https://www.profesionalnifoto.cz/
+  - name: Stavza
+    url: https://www.stavza.cz/
+  - name: Czech-Bulgarian Chamber
+    url: https://www.chamber-bg.cz/
+  - name: C-T Elektromontáže
+    url: https://www.c-t-elektromontaze.cz/
 
 # Status web (veřejná stránka)
 status-website:
