@@ -240,19 +240,19 @@
     "url": "https://www.barber-mnb.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.barber-mnb.cz.ico",
     "slug": "barber-mnb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 403,
-    "timeWeek": 398,
-    "timeMonth": 419,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.95%",
+    "time": 414,
+    "timeDay": 1632,
+    "timeWeek": 706,
+    "timeMonth": 497,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2026-05-12": 0
+      "2026-05-12": 117
     }
   },
   {
