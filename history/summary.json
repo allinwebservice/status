@@ -49,19 +49,19 @@
     "url": "https://cnsc.cz",
     "icon": "https://icons.duckduckgo.com/ip3/cnsc.cz.ico",
     "slug": "cnsc",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 631,
-    "timeDay": 696,
-    "timeWeek": 627,
-    "timeMonth": 729,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "71.05%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.87%",
+    "time": 633,
+    "timeDay": 796,
+    "timeWeek": 661,
+    "timeMonth": 735,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-05-27": 0,
+      "2026-05-27": 417,
       "2026-03-25": 47
     }
   },
@@ -211,7 +211,7 @@
     "time": 304,
     "timeDay": 341,
     "timeWeek": 320,
-    "timeMonth": 303,
+    "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 316,
     "timeDay": 381,
     "timeWeek": 323,
-    "timeMonth": 385,
+    "timeMonth": 388,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2026-05-09": 43,
@@ -250,7 +250,7 @@
     "time": 414,
     "timeDay": 447,
     "timeWeek": 395,
-    "timeMonth": 501,
+    "timeMonth": 507,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2026-05-12": 117
@@ -270,7 +270,7 @@
     "time": 333,
     "timeDay": 334,
     "timeWeek": 295,
-    "timeMonth": 374,
+    "timeMonth": 375,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -288,7 +288,7 @@
     "time": 509,
     "timeDay": 724,
     "timeWeek": 620,
-    "timeMonth": 576,
+    "timeMonth": 569,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2026-04-01": 87
@@ -308,7 +308,7 @@
     "time": 337,
     "timeDay": 392,
     "timeWeek": 312,
-    "timeMonth": 431,
+    "timeMonth": 428,
     "timeYear": 337,
     "dailyMinutesDown": {}
   },
@@ -326,7 +326,7 @@
     "time": 295,
     "timeDay": 325,
     "timeWeek": 303,
-    "timeMonth": 297,
+    "timeMonth": 296,
     "timeYear": 295,
     "dailyMinutesDown": {}
   },
@@ -344,7 +344,7 @@
     "time": 285,
     "timeDay": 341,
     "timeWeek": 316,
-    "timeMonth": 289,
+    "timeMonth": 294,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-01-03": 96
@@ -364,7 +364,7 @@
     "time": 589,
     "timeDay": 412,
     "timeWeek": 434,
-    "timeMonth": 709,
+    "timeMonth": 691,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
