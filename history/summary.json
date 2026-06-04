@@ -13,7 +13,7 @@
     "time": 1168,
     "timeDay": 873,
     "timeWeek": 1086,
-    "timeMonth": 1048,
+    "timeMonth": 1061,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-05-11": 104,
@@ -37,7 +37,7 @@
     "time": 652,
     "timeDay": 663,
     "timeWeek": 582,
-    "timeMonth": 789,
+    "timeMonth": 716,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2026-03-25": 47,
@@ -58,7 +58,7 @@
     "time": 657,
     "timeDay": 853,
     "timeWeek": 1473,
-    "timeMonth": 930,
+    "timeMonth": 890,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2026-05-27": 417,
@@ -79,7 +79,7 @@
     "time": 929,
     "timeDay": 587,
     "timeWeek": 939,
-    "timeMonth": 954,
+    "timeMonth": 968,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2026-05-11": 103,
@@ -103,7 +103,7 @@
     "time": 307,
     "timeDay": 290,
     "timeWeek": 295,
-    "timeMonth": 319,
+    "timeMonth": 317,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 305,
     "timeDay": 300,
     "timeWeek": 305,
-    "timeMonth": 326,
+    "timeMonth": 327,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 392,
     "timeDay": 475,
     "timeWeek": 658,
-    "timeMonth": 580,
+    "timeMonth": 588,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 344,
     "timeDay": 2435,
     "timeWeek": 575,
-    "timeMonth": 376,
+    "timeMonth": 377,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 317,
     "timeDay": 339,
     "timeWeek": 291,
-    "timeMonth": 298,
+    "timeMonth": 296,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 386,
     "timeDay": 341,
     "timeWeek": 880,
-    "timeMonth": 472,
+    "timeMonth": 477,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 304,
     "timeDay": 380,
     "timeWeek": 267,
-    "timeMonth": 292,
+    "timeMonth": 289,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 313,
     "timeDay": 340,
     "timeWeek": 261,
-    "timeMonth": 338,
+    "timeMonth": 340,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2026-05-09": 43,
@@ -250,7 +250,7 @@
     "time": 414,
     "timeDay": 412,
     "timeWeek": 415,
-    "timeMonth": 487,
+    "timeMonth": 490,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2026-05-12": 117
@@ -270,7 +270,7 @@
     "time": 333,
     "timeDay": 337,
     "timeWeek": 318,
-    "timeMonth": 342,
+    "timeMonth": 344,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -280,18 +280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.premiq-benefit.cz.ico",
     "slug": "premiq-benefit",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.94%",
     "time": 514,
     "timeDay": 422,
     "timeWeek": 581,
-    "timeMonth": 574,
+    "timeMonth": 573,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2026-06-04": 0,
+      "2026-06-04": 66,
       "2026-04-01": 87
     }
   },
@@ -301,18 +301,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ovocny-strom.cz.ico",
     "slug": "ovocny-strom",
     "status": "down",
-    "uptime": "98.15%",
+    "uptime": "98.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.51%",
-    "uptimeMonth": "89.53%",
-    "uptimeYear": "98.15%",
+    "uptimeWeek": "53.86%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "98.12%",
     "time": 349,
     "timeDay": 266,
     "timeWeek": 581,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2026-06-04": 1365,
+      "2026-06-04": 1430,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 340
@@ -361,19 +361,19 @@
     "url": "https://www.chamber-bg.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chamber-bg.cz.ico",
     "slug": "czech-bulgarian-chamber",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 425,
-    "timeWeek": 746,
-    "timeMonth": 745,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
+    "time": 605,
+    "timeDay": 988,
+    "timeWeek": 898,
+    "timeMonth": 797,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-06-04": 0
+      "2026-06-04": 66
     }
   },
   {
@@ -390,7 +390,7 @@
     "time": 285,
     "timeDay": 1066,
     "timeWeek": 391,
-    "timeMonth": 318,
+    "timeMonth": 319,
     "timeYear": 285,
     "dailyMinutesDown": {}
   }
